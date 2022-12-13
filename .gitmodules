@@ -3,4 +3,4 @@
 	url = ./son1
 [submodule "son2"]
 	path = son2
-	url = ./son2
+	url = https://github.com/hfcplus/son2.git
