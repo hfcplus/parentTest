@@ -1,0 +1,6 @@
+[submodule "son1"]
+	path = son1
+	url = ./son1
+[submodule "son2"]
+	path = son2
+	url = ./son2
